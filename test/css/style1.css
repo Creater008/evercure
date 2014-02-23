@@ -1,0 +1,19 @@
+body { font:10px Verdana,Arial;}
+ul.menu {list-style:none; position: absolute;
+top: 20px;
+left: 60px;
+;background: url(menubg.png) repeat;position: relative;height: 40px;width:690px;}
+.topmenu-leftbg{background:url(menul.png) no-repeat;height:40px;width: 20px;float: left;margin-left: 30px;margin-top: 20px;}
+.topmenu-rightbg{background:url(menur.png) no-repeat;height:40px;width: 20px;float:right;margin-top: 20px;}
+ul.menu * {margin:0; padding:0}
+ul.menu a {display:block;  text-decoration:none}
+ul.menu li {position:relative; float:left; margin-right:2px}
+ul.menu ul {position:absolute; top:26px; left:0; background:#d1d1d1; display:none; opacity:0; list-style:none}
+ul.menu ul li {position:relative; border:1px solid #ccc; border-top:none; width:148px; margin:0;box-shadow: 1px 1px 3px #b1b7b6;font-size: 11px;}
+ul.menu ul li a { padding:3px 7px 5px; background-color:#fbfbfb;color: #000;}
+ul.menu ul li a:hover {background-color:#e8e6e6}
+ul.menu ul ul {left:148px; top:-1px}
+ul.menu .menulink {border-right:1px solid #d1cecd; padding:7px 7px 7px;font-size: 11px; font-weight:bold; width:134px;color: #000;}
+ul.menu .menulink:hover, ul.menu .menuhover {}
+ul.menu .sub {background:url(images/drop.png) 136px 8px no-repeat;}
+ul.menu .topline {border-top:1px solid #aaa;}
