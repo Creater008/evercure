@@ -1,4 +1,4 @@
-<div class="web-bottom" style="width:100%">
+<div class="web-bottom" style="width:100%;display:block;">
       <div class="left-bottom">
         <div class="left-bottom-wrap">
           <div style="display:inline-block;width:400px;padding:5px 2px;padding-bottom:1px;margin:0px 10px;color:#5f5d5d;border-bottom:1px solid #646467;display:inline-block;text-align:left;font:18px 'Times New Roman';">
