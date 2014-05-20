@@ -70,8 +70,8 @@
           </div>
           <p style="padding:0px;margin:0px;font:11px 'Times New Roman';text-align:justify;margin-left:10px;color:#7d7d82">
             All logo used on this site other than EvercureHelp are trademarks of their respective owners. EvercureHelp is not connected with 
-      / or is a part of any of these other organizations. All the content on this website is owned and copyrighted by EvercureHelp. 
-      EvercureHelp is a trademark of Evercure IT Solution PVT. LTD. &reg; Services.
+      / or is a part of any of these other organizations. All the content on this website is owned and copyrighted by FastWay IT Solutions LLP. 
+      EvercureHelp is a trademark of FastWay IT Solutions LLP. &reg; Services.
       <br><br>
   
       <br></p>
@@ -98,7 +98,7 @@
 
       <div class="right-bottom">
         <div class="right-bottom-wrap">
-          <p style="padding:0px;margin:0px;font:11px 'Times New Roman';margin-left:10px;color:#7d7d82">&copy; Copyright 2012 EvercureHelp. All Rights Reserved.
+          <p style="padding:0px;margin:0px;font:11px 'Times New Roman';margin-left:10px;color:#7d7d82">&copy; Copyright 2012 FastWay IT Solutions. All Rights Reserved.
            <br>Deployed by : <a href="http://facebook.com/creater008">Nishant</a><a href="http://facebook.com/xenon26">(Team Xenon)</a>
           </p>
         </div>

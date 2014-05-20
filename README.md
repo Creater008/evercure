@@ -1,4 +1,0 @@
-Evercurehelp
-============
-
-US based BPO
